@@ -12,7 +12,7 @@ This repository contains the source code for a **landing page** designed to show
 The landing page is deployed and hosted on **Netlify** for seamless and reliable delivery.
 
 ### Live Demo
-[Visit the live site](https://topqueens-agency.netlify.app/) 
+[Landing page link](https://topqueens-agency.netlify.app/) 
 
 ## File Structure
 This is a lightweight, static website consisting of only three files:
