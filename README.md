@@ -1,34 +1,86 @@
-# Marketing Agency Landing Page
+# Shrimp Larvae Production Lab - Demo App
 
 ## Overview
-This repository contains the source code for a **landing page** designed to showcase the services of a marketing agency. It serves as an entry point for content creators to learn about the agency and apply via a built-in application form.
+This repository contains a **demo web application** developed for a shrimp larvae production lab. The app was created to help the lab manager track and manage various aspects of their business, including:
+
+- **Notifications**: Provide alerts and updates for critical activities.
+- **Growth and Harvest Tracking**: Monitor the growth of shrimp larvae and harvest data.
+- **Production Data**: Log and visualize production statistics.
+- **Feed Costs**: Manage and analyze feed expenses.
+- **Event Timeline**: Maintain a timeline of significant events.
+
+
+The app is built entirely using **Python** and **Streamlit**, offering an interactive and user-friendly interface.
 
 ## Features
-- **Informative Design**: Highlights the marketing agency's services and mission.
-- **Application Form**: Allows content creators to easily submit applications.
-- **Static Web Page**: Simplified structure for fast loading and easy deployment.
-
-## Deployment
-The landing page is deployed and hosted on **Netlify** for seamless and reliable delivery.
-
-### Live Demo
-[Landing page link](https://topqueens-agency.netlify.app/) 
+- **Interactive Dashboards**: Visualize key metrics and trends in real-time.
+- **Customizable Data Entry Forms**: Easily log data related to growths, harvests, feed costs, and events.
+- **Dynamic Notifications**: Stay updated with automated alerts.
+- **Streamlined Data Management**: Simplify tracking and analysis with an intuitive interface.
 
 ## File Structure
-This is a lightweight, static website consisting of only three files:
+The project is organized as follows:
 
-1. **index.html**: The main HTML file, defining the structure of the page.
-2. **style.css**: The stylesheet for the landing page, providing visual styling.
-3. **script.js**: JavaScript file for interactive elements, such as form validation or animations.
+- `app.py`: The main Streamlit application file.
+- `data/`: Contains example datasets for demonstration purposes.
+- `utils/`: Utility scripts for data processing and visualization.
+- `requirements.txt`: Lists the dependencies required to run the app.
 
 ## Technologies Used
-- **HTML**: For creating the structure of the landing page.
-- **CSS**: For styling the page and making it visually appealing.
-- **JavaScript**: For adding interactivity and handling form submissions.
+- **Python**: Core programming language for the application.
+- **Streamlit**: Framework for building the interactive web app.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib/Plotly**: For data visualization.
 
+## Getting Started
+### Prerequisites
+- Python 3.9 or later.
+- A virtual environment is recommended for managing dependencies.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repository-name.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd your-repository-name
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the application:
+   ```bash
+   streamlit run app.py
+   ```
+5. Open the application in your browser at `http://localhost:8501`.
+
+## How to Use
+1. Launch the application and navigate through the interactive dashboard.
+2. Use the forms to input data for growth, harvest, feed costs, and events.
+3. View real-time insights and track key metrics.
+
+## Contribution
+Contributions are welcome! To contribute:
+1. Fork this repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+4. Push your branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+5. Open a pull request.
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-The name 'TopQueens Agency' has copywright. Using this name could apply legal claims. 
+Feel free to explore and adapt this demo app for your own business or personal projects!
+
