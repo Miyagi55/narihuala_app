@@ -1,4 +1,5 @@
 # Shrimp Larvae Production Lab - Demo App
+[Web app demo link](https://narihuala-app.streamlit.app) 
 
 ## Overview
 This repository contains a **demo web application** developed for a shrimp larvae production lab. The app was created to help the lab manager track and manage various aspects of their business, including:
