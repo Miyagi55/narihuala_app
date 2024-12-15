@@ -45,7 +45,6 @@ The app is built entirely using **Python** and **Streamlit**, offering an intera
    ```bash
    git clone https://github.com/Miyagi55/narihuala_app
    ```
-   ```
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
