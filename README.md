@@ -9,22 +9,24 @@ This repository contains a **demo web application** developed for a shrimp larva
 - **Feed Costs**: Manage and analyze feed expenses.
 - **Event Timeline**: Maintain a timeline of significant events.
 
+![text](https://github.com/Miyagi55/narihuala_app/blob/main/imagen1.png)
+
 
 The app is built entirely using **Python** and **Streamlit**, offering an interactive and user-friendly interface.
 
+[Web app demo link](https://narihuala-app.streamlit.app) 
+
+![text](https://github.com/Miyagi55/narihuala_app/blob/main/imagen2.png)
+
+
 ## Features
 - **Interactive Dashboards**: Visualize key metrics and trends in real-time.
-- **Customizable Data Entry Forms**: Easily log data related to growths, harvests, feed costs, and events.
+- **Data Entry**: Easily log data related to growths, harvests, feed costs, and events.
 - **Dynamic Notifications**: Stay updated with automated alerts.
 - **Streamlined Data Management**: Simplify tracking and analysis with an intuitive interface.
 
-## File Structure
-The project is organized as follows:
+![text](https://github.com/Miyagi55/narihuala_app/blob/main/imagen3.png)
 
-- `app.py`: The main Streamlit application file.
-- `data/`: Contains example datasets for demonstration purposes.
-- `utils/`: Utility scripts for data processing and visualization.
-- `requirements.txt`: Lists the dependencies required to run the app.
 
 ## Technologies Used
 - **Python**: Core programming language for the application.
@@ -40,43 +42,24 @@ The project is organized as follows:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/Miyagi55/narihuala_app
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repository-name
    ```
-3. Install the required dependencies:
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 4. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 5. Open the application in your browser at `http://localhost:8501`.
 
 ## How to Use
 1. Launch the application and navigate through the interactive dashboard.
-2. Use the forms to input data for growth, harvest, feed costs, and events.
+2. Upload and input data for growth, harvest, feed costs, and events.
 3. View real-time insights and track key metrics.
 
-## Contribution
-Contributions are welcome! To contribute:
-1. Fork this repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
