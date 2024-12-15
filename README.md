@@ -9,14 +9,14 @@ This repository contains a **demo web application** developed for a shrimp larva
 - **Feed Costs**: Manage and analyze feed expenses.
 - **Event Timeline**: Maintain a timeline of significant events.
 
-![image](https://raw.githubusercontent.com/Miyagi55/narihuala_app/main/imagen1.png)
+![image](https://github.com/Miyagi55/narihuala_app/blob/main/image1.png)
 
 
 The app is built entirely using **Python** and **Streamlit**, offering an interactive and user-friendly interface.
 
 [Web app demo link](https://narihuala-app.streamlit.app) 
 
-![text](https://github.com/Miyagi55/narihuala_app/blob/main/imagen2.png)
+![image](https://github.com/Miyagi55/narihuala_app/blob/main/image2.png)
 
 
 ## Features
@@ -25,7 +25,7 @@ The app is built entirely using **Python** and **Streamlit**, offering an intera
 - **Dynamic Notifications**: Stay updated with automated alerts.
 - **Streamlined Data Management**: Simplify tracking and analysis with an intuitive interface.
 
-![text](https://github.com/Miyagi55/narihuala_app/blob/main/imagen3.png)
+![image](https://github.com/Miyagi55/narihuala_app/blob/main/image3.png)
 
 
 ## Technologies Used
